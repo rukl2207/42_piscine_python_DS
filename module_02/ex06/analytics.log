@@ -1,0 +1,13 @@
+2022-09-18 14:29:11,223 Research class is created.
+2022-09-18 14:29:11,223 Started reading the file.
+2022-09-18 14:29:11,233 File is read and checked.
+2022-09-18 14:29:11,233 Calculations class is created.
+2022-09-18 14:29:11,234 Heads and tails are calculated.
+2022-09-18 14:29:11,234 Fractions of heads and tails are calculated.
+2022-09-18 14:29:11,234 Random predictions are made.
+2022-09-18 14:29:11,234 Calculations class is created.
+2022-09-18 14:29:11,234 Heads and tails are calculated.
+2022-09-18 14:29:11,234 Saving report to the file
+2022-09-18 14:29:11,234 The message is sent to a Slack channel.
+2022-09-18 14:29:11,312 Starting new HTTPS connection (1): hooks.slack.com:443
+2022-09-18 14:29:11,654 https://hooks.slack.com:443 "POST /services/T041SFEB2TF/B041WAN6RDH/CRihXhZQU7FeUBHj7cRuOBA7 HTTP/1.1" 200 22
