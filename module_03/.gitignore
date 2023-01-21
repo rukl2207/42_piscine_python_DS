@@ -1,0 +1,10 @@
+.idea
+.DS_Store
+*pycache*
+ex00/scornhol
+ex01/scornhol
+ex02/scornhol
+ex02/scornhol.tar.gz
+#ex02/requirements.txt
+*pytest_cache*
+*.temp
