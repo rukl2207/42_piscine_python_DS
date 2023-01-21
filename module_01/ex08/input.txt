@@ -1,0 +1,6 @@
+ivan.petrov@corp.com
+emma.geller@corp.com
+john.smith@corp.com
+petr.ivanov@corp.com
+oleg.petrov@corp.com
+anna.schulz@corp.com
