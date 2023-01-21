@@ -1,1 +1,7 @@
-# 42_piscine_python_DS
+# Piscine Python Data Science
+
+Description
+The piscine focuses on basic programming skills with Python and the most popular and useful data science libraries. The participants will be able to collect data with parsing, preprocess data using Pandas and SQL and build pipelines with machine learning algorithms.
+
+## Results
+Total score 124 / 100
